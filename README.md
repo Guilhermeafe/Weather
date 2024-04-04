@@ -18,5 +18,5 @@
 <br>
 <p align="center">Mobile Responsiveness :point_down:</p>
 <div align="center">
-<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/mobile.jpg?raw=true" center width:30px>
+<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/mobile.jpg?raw=true" center; width:30px;>
 </div>
