@@ -13,7 +13,7 @@
 <br>
 <br>
 <p align="center">Desktop Version :point_down:</p>
-<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/Weather%20desktop.jpg?raw=true" center; width='950'>
+<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/Weather%20desktop.jpg?raw=true" center; width='750'>
 <br>
 <br>
 <p align="center">Mobile Responsiveness :point_down:</p>
