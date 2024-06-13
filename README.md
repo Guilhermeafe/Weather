@@ -13,10 +13,10 @@
 <br>
 <br>
 <p align="center">Desktop Version :point_down:</p>
-<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/Weather%20desktop.jpg?raw=true" center>
+<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/Weather%20desktop.jpg?raw=true" align-items="center">
 <br>
 <br>
 <p align="center">Mobile Responsiveness :point_down:</p>
 <div align="center">
-<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/weather%20mobile.jpg?raw=true" center>
+<img src="https://github.com/Guilhermeafe/Weather/blob/main/assets/mobile.jpg?raw=true" center width='250'>
 </div>
